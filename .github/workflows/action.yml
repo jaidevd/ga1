@@ -1,0 +1,5 @@
+jobs:
+  test:
+    steps:
+      - name: jaidev@study.iitm.ac.in
+        run: echo "Hello, world!"
